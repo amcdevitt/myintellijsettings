@@ -1,0 +1,1 @@
+Stores settings for intelliJ
